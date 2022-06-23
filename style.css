@@ -1,0 +1,31 @@
+canvas
+{
+
+    animation-name: ft;
+
+    animation-duration: 4s;
+
+    animation-iteration-count: infinite;
+}
+
+
+@keyframes ft
+
+{
+
+    from{box-shadow: 1px 1px 38px rgb(222, 168, 251);}
+
+
+    to{box-shadow: 1px 1px 38px rgb(179, 70, 70);}
+
+}
+
+
+
+.btn-success:hover
+
+{
+
+background-color: rgb(255, 251, 0);
+
+}
